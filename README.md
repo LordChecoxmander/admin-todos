@@ -1,5 +1,4 @@
-teo 153
-prac 111
+teo 161
 
 # Development
 Pasos para leantar la app
@@ -25,6 +24,10 @@ npx prisma migrate dev
 npx prisma generate
 ```
 7. Ejecutar el [seed](localhost:3000/api/seed)
+
+## note 
+user defect: test1@google.com
+pass defect: 123456 
 
 # Prisma Commands
 ```
