@@ -36,7 +36,3 @@ npx prisma migrate dev
 npx prisma generate
 ```
 
-https://github.com/Klerith/next-admin-todos
-
-DATABASE_URL="postgresql://johndoe:randompassword@localhost:5432/mydb?schema=public"
-DATABASE_URL="postgresql://postgres:postgres@localhost:5431/postgres"
